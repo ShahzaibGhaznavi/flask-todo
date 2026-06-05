@@ -43,6 +43,7 @@ Home Page (UI)
 
 
 Add Task
+![image alt](https://github.com/ShahzaibGhaznavi/flask-todo/blob/2b24999a618d83b655bd0fca4a5e7645d6803eeb/Add%20Task.png)
 
 Delete Task
 Running on AWS EC2
