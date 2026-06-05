@@ -37,6 +37,7 @@ docker run -d -p 5000:5000 flask-todo
 ---
 
 ☁️ Deployment (AWS EC2)
+
 Launch Ubuntu EC2 instance
 Install Docker
 Clone GitHub repository
