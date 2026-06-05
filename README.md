@@ -39,7 +39,7 @@ Access via Elastic IP
 
 Screenshots
 Home Page (UI)
-![image alt](https://github.com/ShahzaibGhaznavi/flask-todo/blob/main/screenshots/Home_page.png?raw=true)
+![Home Page](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/Home_page.png)
 
 
 Add Task
