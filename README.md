@@ -30,21 +30,22 @@ http://52.215.98.248:5000/
 ```bash
 docker build -t flask-todo .
 
+Run Container
+docker run -d -p 5000:5000 flask-todo
+
 ## 📸 Screenshots
 
-This section highlights the main UI of the application, including task creation, deletion, and the deployed environment on AWS EC2.
-
 ### 🏠 Home Page
-![Home Page](URL)
+![Home Page](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/Home_page.png)
 
 ### ➕ Add Task
-![Add Task](URL)
+![Add Task](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/Add_task.png)
 
 ### 🗑️ Delete Task
-![Delete Task](URL)
+![Delete Task](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/Delete_task.png)
 
 ### ☁️ EC2 Running
-![EC2 Running](URL)
+![EC2 Running](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/ec2_running.png) iska section kesy change dosre paragraph se
 
 
 
