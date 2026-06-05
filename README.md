@@ -1,3 +1,17 @@
+📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/Home_page.png)
+
+### ➕ Add Task
+![Add Task](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/Add_task.png)
+
+### 🗑️ Delete Task
+![Delete Task](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/Delete_task.png)
+
+### ☁️ EC2 Running
+![EC2 Running](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/ec2_running.png)
+
 # Flask Todo App (Dockerized & Deployed on AWS EC2)
 
 A simple Todo web application built using Flask, SQLAlchemy, and SQLite database.  
@@ -40,16 +54,3 @@ Build Docker image
 Run container
 Access via Elastic IP on port 5000
 
-📸 Screenshots
-
-### 🏠 Home Page
-![Home Page](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/Home_page.png)
-
-### ➕ Add Task
-![Add Task](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/Add_task.png)
-
-### 🗑️ Delete Task
-![Delete Task](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/Delete_task.png)
-
-### ☁️ EC2 Running
-![EC2 Running](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/ec2_running.png)
