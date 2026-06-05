@@ -38,15 +38,20 @@ Run container
 Access via Elastic IP
 
 Screenshots
-Home Page (UI)
+## 📸 Screenshots
+
+### 🏠 Home Page
 ![Home Page](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/Home_page.png)
 
+### ➕ Add Task
+![Add Task](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/Add_task.png)
 
-Add Task
-![image alt](https://github.com/ShahzaibGhaznavi/flask-todo/blob/2b24999a618d83b655bd0fca4a5e7645d6803eeb/Add%20Task.png?raw=true)
+### 🗑️ Delete Task
+![Delete Task](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/Delete_task.png)
 
-Delete Task
-![image alt](https://github.com/ShahzaibGhaznavi/flask-todo/blob/main/Delete%20Task.png?raw=true)
+### ☁️ EC2 Running
+![EC2 Running](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/ec2_running.png)
+
 Running on AWS EC2
 Build image:
 ```bash
