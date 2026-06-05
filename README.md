@@ -24,14 +24,26 @@ http://52.215.98.248:5000/
 
 ---
 
+
+
 ## 🐳 Docker Setup
 
 ### Build Image
 ```bash
 docker build -t flask-todo .
-
 Run Container
 docker run -d -p 5000:5000 flask-todo
+---
+
+☁️ Deployment (AWS EC2)
+Launch Ubuntu EC2 instance
+Install Docker
+Clone GitHub repository
+Build Docker image
+Run container
+Access application via Elastic IP
+
+---
 
 ## 📸 Screenshots
 
@@ -45,7 +57,7 @@ docker run -d -p 5000:5000 flask-todo
 ![Delete Task](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/Delete_task.png)
 
 ### ☁️ EC2 Running
-![EC2 Running](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/ec2_running.png) iska section kesy change dosre paragraph se
+![EC2 Running](https://raw.githubusercontent.com/ShahzaibGhaznavi/flask-todo/main/screenshots/ec2_running.png) 
 
 
 
