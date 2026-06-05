@@ -39,13 +39,11 @@ Access via Elastic IP
 
 Screenshots
 Home Page (UI)
-<img width="1366" height="768" alt="ec2 server" src="https://github.com/user-attachments/assets/ef7000c1-d55a-439a-88d9-e00692652ca9" />
-<img width="1366" height="768" alt="Delete Task" src="https://github.com/user-attachments/assets/e46c8744-5191-433d-bea4-e6a26b7d0304" />
-<img width="1366" height="768" alt="Add Task" src="https://github.com/user-attachments/assets/de05063b-2636-471c-b509-04badffdc1a6" />
-<img width="1366" height="768" alt="Home page" src="https://github.com/user-attachments/assets/cd63ac94-ddb1-4e8d-8aff-ae7f17d2be76" />
+![image alt](https://github.com/ShahzaibGhaznavi/flask-todo/blob/e196e0817d956bca6bcd9836ab64675429226f27/Home%20page.png)
 
 
 Add Task
+
 Delete Task
 Running on AWS EC2
 Build image:
