@@ -30,6 +30,22 @@ http://52.215.98.248:5000/
 ```bash
 docker build -t flask-todo .
 
+## 📸 Screenshots
+
+This section highlights the main UI of the application, including task creation, deletion, and the deployed environment on AWS EC2.
+
+### 🏠 Home Page
+![Home Page](URL)
+
+### ➕ Add Task
+![Add Task](URL)
+
+### 🗑️ Delete Task
+![Delete Task](URL)
+
+### ☁️ EC2 Running
+![EC2 Running](URL)
+
 
 
 
