@@ -35,15 +35,14 @@ Run Container
 docker run -d -p 5000:5000 flask-todo
 ```
 ---
+## ☁️ Deployment (AWS EC2)
 
-☁️ Deployment (AWS EC2)
-
-Launch Ubuntu EC2 instance
-Install Docker
-Clone GitHub repository
-Build Docker image
-Run container
-Access application via Elastic IP
+- Launch Ubuntu EC2 instance  
+- Install Docker  
+- Clone GitHub repository  
+- Build Docker image  
+- Run container  
+- Access application via Elastic IP  
 
 ---
 
