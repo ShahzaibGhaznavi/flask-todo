@@ -33,6 +33,7 @@ http://52.215.98.248:5000/
 docker build -t flask-todo .
 Run Container
 docker run -d -p 5000:5000 flask-todo
+```
 ---
 
 ☁️ Deployment (AWS EC2)
